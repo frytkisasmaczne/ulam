@@ -1,0 +1,7 @@
+module main;
+
+initial
+$display("xd");
+$finish;
+
+endmodule
